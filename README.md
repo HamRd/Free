@@ -1,5 +1,5 @@
 # Free
-Ngontol aja
+#Ngontol aja
 
 •cd LKING
 
@@ -8,3 +8,4 @@ Ngontol aja
 •chmod 777 LKINGOP
 
 •./LKINGOP
+#MINIMAL JANGAN DISEBAR LAH KENTOD 
